@@ -1,6 +1,8 @@
 # ~/backbin
 Easily setup Linux to Windows backups using the Common Internet File System.
 
+[![BCH compliance](https://bettercodehub.com/edge/badge/lukebrains/backbin?branch=master)](https://bettercodehub.com/)
+
 # How to use backbin:
 1. Create a share on the backup destination.
 2. Run the bootstrap_cifs.sh file on the Linux server you will be backing up.
